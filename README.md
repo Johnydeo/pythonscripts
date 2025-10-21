@@ -19,9 +19,4 @@
 
 ---
 
-## 🛠️ Requirements
 
-- Python 3.7+
-- Common dependencies (install via):
-  ```bash
-  pip install -r requirements.txt
